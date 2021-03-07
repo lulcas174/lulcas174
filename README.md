@@ -14,9 +14,12 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  
 
 **Utilidades**
+<br>
 <strong>Sou também técnico de manutenção e suporte em informática e tenho conhecimento intermediário em redes</strong>
+
 
 **Conhecimento básico em**
 

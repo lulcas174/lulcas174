@@ -2,7 +2,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
-- 💼 &nbsp; Trabalhando como desenvolvedor "junior na SAEB .
+- 💼 &nbsp; Trabalhando como desenvolvedor junior na Secretária de Administração do Estado da Bahia
 - 🌱 &nbsp; Aprendendo mais sobre PHP, SQL, GIT, BOOTSTRAP, HTML, pretendo um dia poder me tornar um bom desenvolvedor, no futuro um desenvolvedor de jogos.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3> 

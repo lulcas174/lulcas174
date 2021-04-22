@@ -30,4 +30,4 @@
 
 [![Linkedin: Lucas Lima](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/lucas-l-8b694a164/)
 [![Gmail Badge](https://img.shields.io/badge/-limalukas63@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:limalukas63@gmail.com)](mailto:limalukas63@gmail.com)
-[![GitHub Lucas Lima]( https://img.shields.io/github/followers/lulcas174?label=follow&style=social)](https://github.com/lulcas174)
+[![GitHub Lucas Lima](https://img.shields.io/github/followers/lulcas174?label=follow&style=social)](https://github.com/lulcas174)

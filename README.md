@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 💼 &nbsp; Trabalhando como desenvolvedor junior na Secretária de Administração do Estado da Bahia
-- 🌱 &nbsp; Aprendendo mais sobre PHP | Laravel, estudando desenvolvimento mobiile ^^
+- 🌱 &nbsp; Aprendendo mais sobre PHP | Laravel
 
 <h3> :rocket: &nbsp;Minhas Skills </h3> 
 

@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 💼 &nbsp; Trabalhando como desenvolvedor junior na Secretária de Administração do Estado da Bahia
-- 🌱 &nbsp; Aprendendo mais sobre PHP, SQL, GIT, BOOTSTRAP, HTML, pretendo um dia poder me tornar um bom desenvolvedor, no futuro um desenvolvedor de jogos.
+- 🌱 &nbsp; Aprendendo mais sobre PHP | Laravel, estudando desenvolvimento mobiile ^^
 
 <h3> :rocket: &nbsp;Minhas Skills </h3> 
 

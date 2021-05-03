@@ -1,5 +1,5 @@
 <h3> Olá! Boas vindas.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
-<img align='right' src='https://i.pinimg.com/originals/d7/c4/7e/d7c47e2b96ae14c8ae132d3236b93e70.gif' width='300"'>
+<img align='right' src="https://orhun.dev/img/crow.png" width='100'>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 💼 &nbsp; Trabalhando como desenvolvedor junior na Secretária de Administração do Estado da Bahia

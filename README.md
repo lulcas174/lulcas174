@@ -1,5 +1,5 @@
 <h3> Olá! Boas vindas.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
-<img align='right' src="https://orhun.dev/img/crow.png" width='100'>
+<img align='right' src="https://pbs.twimg.com/media/EUX9kfHX0AQdBTk.jpg" width='30%'>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 💼 &nbsp; Trabalhando como desenvolvedor junior na FanHub

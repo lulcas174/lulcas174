@@ -2,7 +2,7 @@
 <img align='right' src="https://pbs.twimg.com/media/EUX9kfHX0AQdBTk.jpg" width='25%'>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
-- 💼 &nbsp; Trabalhando como desenvolvedor junior na FanHub
+- 💼 &nbsp; Trabalhando como desenvolvedor junior
 - 🌱 &nbsp; Aprendendo mais sobre desenvolvimento front-end
 
 <h3> :rocket: &nbsp;Minhas Skills </h3> 

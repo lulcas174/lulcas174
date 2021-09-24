@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 💼 &nbsp; Trabalhando como desenvolvedor junior
-- 🌱 &nbsp; Aprendendo mais sobre desenvolvimento front-end
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3> 
 

@@ -41,6 +41,6 @@
 ![](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Lucas Lima](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/lucas-l-8b694a164/)
+
 [![Gmail Badge](https://img.shields.io/badge/-limalukas63@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:limalukas63@gmail.com)](mailto:limalukas63@gmail.com)
 [![GitHub Lucas Lima](https://img.shields.io/github/followers/lulcas174?label=follow&style=social)](https://github.com/lulcas174)

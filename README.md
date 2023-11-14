@@ -2,7 +2,7 @@
 <img align='right' src="https://pbs.twimg.com/media/EUX9kfHX0AQdBTk.jpg" width='25%'>
 
 <h3>
-  Olá, eu me chamo Lucas, sou desenvovledor de software especializado em backend!
+  Olá, eu me chamo Lucas, sou desenvolvedor de software especializado em backend!
 </h3>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3> 
